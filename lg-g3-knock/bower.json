@@ -1,0 +1,8 @@
+{
+  "name": "lg-g3-knock",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0"
+  },
+  "devDependencies": {}
+}

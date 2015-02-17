@@ -1,0 +1,7 @@
+.sass-cache
+node_modules
+src/_site
+src/_layouts
+src/_includes
+dist
+.idea
